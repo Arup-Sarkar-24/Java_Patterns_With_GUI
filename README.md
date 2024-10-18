@@ -38,11 +38,15 @@ Pattern Game is a Java application that allows users to generate various star pa
 **Usage**
 
    1.Run the Application:Locate the main class (e.g., MainApp.java) and run it.
+   
    2.Select a Pattern: Choose a desired pattern from the dropdown menu in the GUI.
+   
    3.Input Parameters:
       .Enter the required number of rows (minimum of 3).
       .Input a string that will be used in the pattern generation.
+      
    4.Generate Pattern: Click the "Generate Pattern" button to display the result in the output area.
+   
    5.Exit the Application: Click the "Exit" button to close the application.
    
 **Code Structure**
