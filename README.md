@@ -56,18 +56,7 @@ Pattern Game is a Java application that allows users to generate various star pa
     InputHandler.java: Manages user input and provides validation for the inputs.
 
 **Example Patterns**
-Pyramid Pattern:
-       *
-     * * *
-  * * * * *
-* * * * * * *
-
-Inverted Pyramid Pattern:
-* * * * * * * * *
-  * * * * * * *
-    * * * * *
-      * * *
-        *
+![image](https://github.com/user-attachments/assets/df93db0d-2870-48f7-9ccc-f1c2ecdcd467)
 
 **Contributing**
 
