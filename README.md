@@ -88,6 +88,6 @@ This project is licensed under developer custom License. See the LICENSE file fo
 
 For any questions or feedback, please reach out to:
 
-    Your Name: Arup Sarkar
+    Name: Arup Sarkar
     GitHub Profile: https://github.com/Arup-Sarkar-24
 
