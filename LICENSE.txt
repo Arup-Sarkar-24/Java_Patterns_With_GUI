@@ -1,0 +1,21 @@
+Custom Software License
+
+Version 1.0
+
+1. Grant of Rights
+   You are hereby granted a non-exclusive, royalty-free license to use, modify, and distribute this software.
+
+2. Restrictions
+   You may not:
+   - Sell this software without explicit permission from the author.
+   - Use this software in any illegal activities.
+
+3. Attribution
+   If you distribute this software, you must include this license and give appropriate credit to the author.
+
+4. Disclaimer of Warranty
+   This software is provided "as is", without warranty of any kind. The author is not liable for any damages resulting from the use of this software.
+
+5. Termination
+   This license is terminated if you violate any of its terms. Upon termination, you must cease all use of the software.
+.............................................................
