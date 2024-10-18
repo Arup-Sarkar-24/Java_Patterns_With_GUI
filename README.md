@@ -57,6 +57,16 @@ Pattern Game is a Java application that allows users to generate various star pa
 
 **Example Patterns**
 ![image](https://github.com/user-attachments/assets/df93db0d-2870-48f7-9ccc-f1c2ecdcd467)
+![image](https://github.com/user-attachments/assets/d80ab676-0468-463b-a70a-4d4e8ba7fc6e)
+![image](https://github.com/user-attachments/assets/328c393b-1903-4413-90ea-a46ba150a3fd)
+![image](https://github.com/user-attachments/assets/855ce34e-a0ab-4ce9-a9d6-2128358b7924)
+![image](https://github.com/user-attachments/assets/5640ba7a-2809-406a-a282-48002323e716)
+![image](https://github.com/user-attachments/assets/6d65659e-a79e-4a85-a650-019200d2de39)
+
+
+
+
+
 
 **Contributing**
 
